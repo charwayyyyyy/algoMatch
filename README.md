@@ -4,7 +4,7 @@ AlgoMatch is a web application that helps developers practice coding interviews 
 
 ## Live Demo
 
-Check out the live demo of AlgoMatch: [AlgoMatch Live Demo](https://algomatch.app/)
+Check out the live demo of AlgoMatch: [AlgoMatch Live Demo](https://algomatch.vercel.app/)
 
 ## Features
 
